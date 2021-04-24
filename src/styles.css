@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .U {
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 0.5rem;
+  }
+  .card-img-top {
+    width: 350px !important;
+  }
+  .price {
+    float: right !important;
+    color: blue;
+  }
+  .button {
+    color: red;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+  }
+  
